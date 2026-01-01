@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "TOMONARI SORA - \"咆哮 - HOKO\"［Music Video］(Anime \"Kingdom\" Season 6 Ending Theme)",
+  "base_artist": "友成空",
+  "createdAt": "2026-01-01T13:46:26.446752Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "咆哮",
+      "artist": "友成空",
+      "has_synced": false,
+      "path": "select/pl_01_咆哮_友成空.txt"
+    }
+  ]
+}
